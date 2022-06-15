@@ -1,0 +1,24 @@
+1. Se requiere tener instalado Node JS para descargarlo en la siguiente ruta: https://nodejs.org/es/
+2. Una vez descargado Node Js instalar con Siguiente , Siguiente , Siguiente hasta dar finalizada la instalación.
+3 Entrar en CMD y acceder al directorio donde esta el programa ejemplo: cd C:\Users\okero\Documents\Javascript\MP3-Downloader
+Y ejecutar el siguiente comando
+
+npm install puppeteer
+
+4.Enseguida antes de ejecutar el archivo ir al documento directorio.txt y escribir la ruta donde se quiere descargar
+la información en mi caso mi ordenador es C:\Users\okero\Music\  
+5.Para ejecutarlo solo abrirl el archivo YT MP3 Downloader
+6.Una vez abierto el archivo te pedira información del artista a descargar, tecleas el nombre del artista ejemplo: 
+Ed Sheeran y das enter
+7. Automaticamente comenzara a buscar una lista de musica y procedera a imprimir la lista que se va a descargar
+puede que se repita la musica.
+8. Una vez que se imprimio la lista comenzara la descarga de la musica en el directorio que colocaste anteriormente 
+y se creara una carpeta con el nombre que colocaste.
+9.Se comenzará a ejecutar todo el proceso final de descarga importante no cerrar nada las ventanas se cierran automaticamente.
+10.Listo ya puedes disfrutar de tu musica.
+
+Nota: 
+Algunos nombres de canciones se verán algo raros pero es porque no se puedo corregir el nombre automaticamente tendrás
+que modificarlo tu de forma manual.
+
+Importante no borrar los archivos ya que todos son necesarios para el uso correcto de la herramienta.
