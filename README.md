@@ -17,6 +17,7 @@ Then the software is going to star to find the music list
 Once download the file is going to show the information who has been downloaded 
 
 ![image](https://user-images.githubusercontent.com/50367761/174169289-50d4d2aa-d511-4d47-bb8e-051395b31d17.png)
+
 If it has problems to download is going to show a message 
 
 ![image](https://user-images.githubusercontent.com/50367761/174169334-6ebb3ef5-5034-45b5-a5ec-aeffb9e028b0.png)
