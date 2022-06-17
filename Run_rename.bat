@@ -1,0 +1,2 @@
+node renameAll.js
+exit
